@@ -5,6 +5,7 @@
 # .NET Core Project
 obj
 bin
+vscode
 
 # compiled output
 /dist
